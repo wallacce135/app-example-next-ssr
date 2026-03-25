@@ -2,7 +2,7 @@
 
 Пример приложения Next.js SSR, которое можно развернуть в Timeweb Cloud Apps без настройки.
 
-🎉 [Демо](https://timeweb-cloud-app-example-next-e66b.twc1.net)
+🎉 [Демо]
 
 🚀 [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
