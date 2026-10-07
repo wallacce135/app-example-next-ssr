@@ -12,8 +12,10 @@ export default function RootLayout({
 }: Readonly<{
   children: ReactNode;
 }>) {
+  console.log('helloworld');
   return (
     <html lang="ru">
+      <h1>Привет</h1>ы
       <body>{children}</body>
     </html>
   );
